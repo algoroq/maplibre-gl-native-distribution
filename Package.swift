@@ -13,7 +13,7 @@ let package = Package(
     targets: [
         .binaryTarget(
             name: "Mapbox",
-            url: "https://github.com/maplibre/maplibre-gl-native/releases/download/ios-v5.12.2/Mapbox-5.12.2.zip",
-            checksum: "348453495bad198b380e033a6bc6e6134bf71be27116904a25152b93a2d77491")
+            url: "https://ftp.algodos.cz/rother_ios/Mapbox-5.12.2.zip",
+            checksum: "183e313492e002ec1121776796710b076e2d5f295e24f64cf99c2305029fd76a")
     ]
 )
