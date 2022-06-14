@@ -13,7 +13,7 @@ let package = Package(
     targets: [
         .binaryTarget(
             name: "Mapbox",
-            url: "https://ftp.algodos.cz/rother_ios/Mapbox-5.12.2.zip",
-            checksum: "85cb83e9d084cb77d4cec700e2568655b945b1bd42d37cb0c16927eea410f054")
+            url: "https://ftp.algodos.cz/rother_ios/Mapbox-offline.zip",
+            checksum: "63405c3c1afca9ddcf6fd460f9e91a1f92b6024fed270a0135a95bb26ae35129")
     ]
 )
